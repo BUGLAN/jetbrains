@@ -60,23 +60,21 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1588355269027">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/repos/github/libary/libary/controller.py" timestamp="1586788013338">
         <mark key="'" line="20" column="21" />
       </file>
-      <file name="$USER_HOME$/repos/github/gon/gin.go" timestamp="1588355866237">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/repos/github/libary/tests/test_barnacle.py" timestamp="1588356241459" />
+      <file name="$USER_HOME$/repos/github/libary/asgi.py" timestamp="1588356004157">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/repos/github/libary/crawler/barnacle/barnacle.py" timestamp="1587268682215">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/" timestamp="1588356022698">
+      <file name="/" timestamp="1588356071901">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -91,25 +89,22 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">CSgoKCgoKCkpKSkpKQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">CSgoKCgoKSkpKSkK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CXt7e3t7fX19fX0K</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="2" type="2">
+        <text encoding="base64">ZnJvbSBsaWJhcnkuY29uZmlnIGltcG9ydCBDb25zCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ZnJvbSBsaWJhcnkuY29uZmlnIGltcG9ydCBDb25zCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">CSgoKCgoKCkpKSkpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
   </component>
