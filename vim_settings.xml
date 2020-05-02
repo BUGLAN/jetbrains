@@ -81,10 +81,10 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/github/libary/crawler/barnacle/barnacle.py" timestamp="1587268682215">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/repos/github/libary/crawler/barnacle/barnacle.py" timestamp="1588400008594">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="/" timestamp="1588357028662">
         <mark key="[" line="0" column="0" />
@@ -104,24 +104,27 @@
         <text encoding="base64">ICAgICAgICA9PQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PT0K</text>
+        <text encoding="base64">ICAgICAgICA9PQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ID09Cg==</text>
+        <text encoding="base64">PT0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ID09Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBsaWJhcnkuY29uZmlnIGltcG9ydCBDb25zCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ZnJvbSBsaWJhcnkuY29uZmlnIGltcG9ydCBDb25zCg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="8" type="2">
+        <text encoding="base64">ZnJvbSBsaWJhcnkuY29uZmlnIGltcG9ydCBDb25zCg==</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">ZnJvbSBsaWJhcnkuY29uZmlnIGltcG9ydCBDb25zCg==</text>
       </register>
       <register name=":" type="4">
