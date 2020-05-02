@@ -63,6 +63,7 @@
       <file name="/Dummy.txt" timestamp="1588355269027">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/github/walle-web/walle/api/api.py" timestamp="1588400958628" />
       <file name="$USER_HOME$/repos/github/libary/libary/controller.py" timestamp="1586788013338">
         <mark key="'" line="20" column="21" />
       </file>
@@ -70,6 +71,15 @@
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1588401148455">
+        <mark key="[" line="0" column="1" />
+      </file>
+      <file name="$USER_HOME$/repos/github/libary/libary/api/base.py" timestamp="1588401182295">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/github/libary/asgi.py" timestamp="1588356004157">
         <mark key="[" line="9" column="0" />
@@ -101,28 +111,28 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA9PQo=</text>
+        <text>from</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA9PQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PT0K</text>
+        <text>class Respos</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ID09Cg==</text>
+        <text encoding="base64">ICAgICAgICA9PQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA9PQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBsaWJhcnkuY29uZmlnIGltcG9ydCBDb25zCg==</text>
+        <text encoding="base64">PT0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ID09Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBsaWJhcnkuY29uZmlnIGltcG9ydCBDb25zCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ZnJvbSBsaWJhcnkuY29uZmlnIGltcG9ydCBDb25zCg==</text>
@@ -131,7 +141,7 @@
         <text>w</text>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">ICAgICAgICA9PQo=</text>
+        <text>from</text>
       </register>
     </registers>
   </component>
