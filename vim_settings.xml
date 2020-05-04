@@ -17,6 +17,9 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
@@ -60,6 +63,12 @@
       <file name="/fragment.java" timestamp="1588514553526">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/github/demo2/refactor-demo/refactor1.go" timestamp="1588598905807">
+        <mark key="[" line="8" column="15" />
+        <mark key="]" line="8" column="21" />
+        <mark key="^" line="8" column="21" />
+        <mark key="." line="8" column="20" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="24" column="4" filename="$USER_HOME$/Downloads/demo/src/main/java/com/example/demo/DemoApplication.java" />
@@ -69,6 +78,9 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
+      <register name="0" type="2">
+        <text encoding="base64">CWZtdC5QcmludGxuKCJ0eXBlIG9mIGF1dGhvciIsIHJlZmxlY3QuVHlwZU9mKGF1dGhvcikpCg==</text>
+      </register>
       <register name="1" type="2">
         <text>from flask</text>
       </register>
@@ -84,14 +96,14 @@
       <register name="5" type="2">
         <text encoding="base64">Cgo=</text>
       </register>
-      <register name="*" type="2">
-        <text>from flask</text>
+      <register name="*" type="4">
+        <text>draven</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>Autowired</text>
+        <text>draven</text>
       </register>
     </registers>
   </component>
@@ -105,7 +117,7 @@
     <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="false" />
-      <idea-put enabled="false" />
+      <idea-put enabled="true" />
     </notifications>
   </component>
 </application>
