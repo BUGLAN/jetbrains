@@ -60,11 +60,15 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/repos/github/demo2/layer/layer.py" timestamp="1588602764247">
+        <mark key="[" line="13" column="32" />
+        <mark key="]" line="20" column="36" />
+        <mark key="." line="20" column="35" />
+        <mark key="^" line="20" column="36" />
+      </file>
       <file name="/Dummy.txt" timestamp="1588355269027">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/github/walle-web/walle/service/notice/dingding.py" timestamp="1588431148790" />
-      <file name="$USER_HOME$/repos/github/walle-web/walle/api/api.py" timestamp="1588400958628" />
       <file name="$USER_HOME$/repos/github/libary/libary/controller.py" timestamp="1586788013338">
         <mark key="'" line="20" column="21" />
       </file>
@@ -107,42 +111,46 @@
       <jump line="28" column="4" filename="$USER_HOME$/repos/github/libary/libary/controller.py" />
       <jump line="1" column="0" filename="$USER_HOME$/repos/github/libary/libary/controller.py" />
       <jump line="20" column="21" filename="$USER_HOME$/repos/github/libary/libary/controller.py" />
+      <jump line="6" column="14" filename="$USER_HOME$/repos/github/demo2/layer/layer.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="1" type="2">
-        <text>from</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnVzZXIoKS4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmZpcnN0KCkK</text>
       </register>
       <register name="3" type="2">
-        <text>class Respos</text>
+        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCAqYXJncywgKiprd2FyZ3MpOgogICAgICAgIHN1cGVyKFVzZXJEYW8sIHNlbGYpLl9faW5pdF9fKCphcmdzLCAqKmt3YXJncykKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA9PQo=</text>
+        <text encoding="base64">c2UK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA9PQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLlVzZXIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PT0K</text>
+        <text encoding="base64">ICAgIFVzZXIgPSBVc2VyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ID09Cg==</text>
+        <text>from</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBsaWJhcnkuY29uZmlnIGltcG9ydCBDb25zCg==</text>
+        <text>class Respos</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="*" type="2">
-        <text>from</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnVzZXIoKS4K</text>
+      </register>
+      <register name="-" type="4">
+        <text>)</text>
       </register>
     </registers>
   </component>
