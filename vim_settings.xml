@@ -67,12 +67,11 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/github/demo2/layer/layer1.go" timestamp="1588602278886">
+      <file name="$USER_HOME$/repos/github/demo2/layer/layer1.go" timestamp="1588602880291">
         <mark key="'" line="2" column="15" />
-        <mark key="[" line="29" column="28" />
-        <mark key="]" line="30" column="23" />
-        <mark key="." line="30" column="22" />
-        <mark key="^" line="30" column="23" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/repos/github/demo2/design-pattern/single-interface.go" timestamp="1588600057310">
         <mark key="'" line="7" column="0" />
@@ -104,8 +103,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="*" type="2">
+        <text encoding="base64">YGBgYAp0ZXN0LWRlbW8KICAgIOKUnOKUgOKUgCBnby5tb2QKICAgIOKUnOKUgOKUgCBoZWxsb3dvcmxkX3Rlc3QuZ28KICAgIOKUnOKUgOKUgCB0YnQuZ28KICAgIOKUlOKUgOKUgCB0ZHRfdGVzdC5nbwoK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -114,20 +113,20 @@
         <text encoding="base64">CWZtdC5QcmludGxuKCJ0eXBlIG9mIGF1dGhvciIsIHJlZmxlY3QuVHlwZU9mKGF1dGhvcikpCg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">YGBgYAp0ZXN0LWRlbW8KICAgIOKUnOKUgOKUgCBnby5tb2QKICAgIOKUnOKUgOKUgCBoZWxsb3dvcmxkX3Rlc3QuZ28KICAgIOKUnOKUgOKUgCB0YnQuZ28KICAgIOKUlOKUgOKUgCB0ZHRfdGVzdC5nbwoK</text>
+      </register>
+      <register name="2" type="2">
         <text>class User:
     name: s
     
 class UserDao():
     pass</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZnVuYyBtYWluKCkgewoJCn0K</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">CXBhbmljKCJpbXBsZW1lbnQgbWUiKQo=</text>
+        <text encoding="base64">ZnVuYyBtYWluKCkgewoJCn0K</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">CXBhbmljKCJpbXBsZW1lbnQgbWUiKQo=</text>
@@ -136,13 +135,13 @@ class UserDao():
         <text encoding="base64">CXBhbmljKCJpbXBsZW1lbnQgbWUiKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXBhbmljKCJpbXBsZW1lbnQgbWUiKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dHlwZSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXJldHVybgo=</text>
+        <text encoding="base64">dHlwZSAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
