@@ -34,6 +34,12 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/github/demo2/design-pattern/single_interface.py" timestamp="1588600296016">
+        <mark key="[" line="29" column="8" />
+        <mark key="]" line="38" column="12" />
+        <mark key="." line="38" column="11" />
+        <mark key="^" line="38" column="12" />
+      </file>
       <file name="$USER_HOME$/repos/qing-long/todo-api/.gitignore" timestamp="1587393762998">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
@@ -53,6 +59,13 @@
       </file>
       <file name="$USER_HOME$/repos/qing-long/todo-api/src/main/java/com/qinglong/todo/TodoApplication.java" timestamp="1587393781411">
         <mark key="[" line="12" column="5" />
+      </file>
+      <file name="$USER_HOME$/repos/github/demo2/design-pattern/single-interface.go" timestamp="1588600057310">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="31" column="6" />
+        <mark key="]" line="32" column="14" />
+        <mark key="." line="32" column="13" />
+        <mark key="^" line="32" column="14" />
       </file>
       <file name="$USER_HOME$/repos/qing-long/.gitignore" timestamp="1587393342346">
         <mark key="[" line="1" column="7" />
@@ -74,36 +87,52 @@
       <jump line="24" column="4" filename="$USER_HOME$/Downloads/demo/src/main/java/com/example/demo/DemoApplication.java" />
       <jump line="19" column="22" filename="$USER_HOME$/Downloads/demo/src/main/java/com/example/demo/DemoApplication.java" />
       <jump line="25" column="0" filename="$USER_HOME$/Downloads/demo/src/main/java/com/example/demo/DemoApplication.java" />
+      <jump line="8" column="0" filename="$USER_HOME$/repos/github/demo2/design-pattern/single-interface.go" />
+      <jump line="5" column="19" filename="$USER_HOME$/repos/github/demo2/design-pattern/single-interface.go" />
+      <jump line="27" column="0" filename="$USER_HOME$/repos/github/demo2/design-pattern/single-interface.go" />
+      <jump line="7" column="0" filename="$USER_HOME$/repos/github/demo2/design-pattern/single-interface.go" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
+      <register name="*" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">JnBlcnNvbnsib25jZSJ9</text>
+      </register>
       <register name="0" type="2">
         <text encoding="base64">CWZtdC5QcmludGxuKCJ0eXBlIG9mIGF1dGhvciIsIHJlZmxlY3QuVHlwZU9mKGF1dGhvcikpCg==</text>
       </register>
       <register name="1" type="2">
-        <text>from flask</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog5aKe5YqgaXRlbSzmiJDlip/ov5Tlm54x5aSx6LSl6L+U5ZueMAogICAgICovCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Ly8gbGF6eSBtb2RlCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">dHlwZSBwZXJzb24gc3RydWN0IHsKCWlmIGlucyA9PSBuaWwgewoKfQpyZXR1cm4gaW5zCn0K</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">QFNwcmluZ0Jvb3RBcHBsaWNhdGlvbgo=</text>
+        <text encoding="base64">CWlmIGlucyA9PSBuaWwgewp9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
-      <register name="*" type="4">
-        <text>draven</text>
+      <register name="6" type="2">
+        <text>from flask</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICog5aKe5YqgaXRlbSzmiJDlip/ov5Tlm54x5aSx6LSl6L+U5ZueMAogICAgICovCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">QFNwcmluZ0Jvb3RBcHBsaWNhdGlvbgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
-      </register>
-      <register name="-" type="4">
-        <text>draven</text>
       </register>
     </registers>
   </component>
