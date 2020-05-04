@@ -1,6 +1,8 @@
 <application>
   <component name="VimEditorSettings">
-    <editor />
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
   </component>
   <component name="VimHistorySettings">
     <history>
@@ -13,85 +15,42 @@
     </history>
   </component>
   <component name="VimKeySettings">
-    <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed E</text>
-      </shortcut-conflict>
-    </shortcut-conflicts>
+    <shortcut-conflicts />
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1588514553538">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/repos/github/libary/libary/controller.py" timestamp="1586788013338">
+        <mark key="'" line="20" column="21" />
       </file>
-      <file name="$USER_HOME$/Downloads/demo/src/main/java/com/example/demo/DemoApplication.java" timestamp="1587227682173">
-        <mark key="'" line="25" column="0" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/repos/qing-long/todo-api/.gitignore" timestamp="1587393762998">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-      </file>
-      <file name="$USER_HOME$/repos/github/gon/.gitignore" timestamp="1588597364361">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="10" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/repos/qing-long/src/main/java/com/qinglong/todo/TodoApplication.java" timestamp="1587393603151">
-        <mark key="[" line="15" column="10" />
-        <mark key="]" line="19" column="32" />
-        <mark key="^" line="19" column="32" />
-        <mark key="." line="19" column="31" />
-      </file>
-      <file name="$USER_HOME$/repos/qing-long/todo-api/src/main/java/com/qinglong/todo/TodoApplication.java" timestamp="1587393781411">
-        <mark key="[" line="12" column="5" />
-      </file>
-      <file name="$USER_HOME$/repos/qing-long/.gitignore" timestamp="1587393342346">
-        <mark key="[" line="1" column="7" />
-        <mark key="]" line="1" column="7" />
-        <mark key="^" line="1" column="7" />
-        <mark key="." line="1" column="6" />
-      </file>
-      <file name="/fragment.java" timestamp="1588514553526">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/repos/github/libary/libary/repository/repository.py" timestamp="1587228440705" />
+      <file name="$USER_HOME$/repos/github/libary/crawler/barnacle/barnacle.py" timestamp="1587268682215">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="4" filename="$USER_HOME$/Downloads/demo/src/main/java/com/example/demo/DemoApplication.java" />
-      <jump line="19" column="22" filename="$USER_HOME$/Downloads/demo/src/main/java/com/example/demo/DemoApplication.java" />
-      <jump line="25" column="0" filename="$USER_HOME$/Downloads/demo/src/main/java/com/example/demo/DemoApplication.java" />
+      <jump line="29" column="13" filename="$USER_HOME$/repos/github/libary/libary/controller.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/repos/github/libary/libary/controller.py" />
+      <jump line="28" column="4" filename="$USER_HOME$/repos/github/libary/libary/controller.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/repos/github/libary/libary/controller.py" />
+      <jump line="20" column="21" filename="$USER_HOME$/repos/github/libary/libary/controller.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="1" type="2">
-        <text>from flask</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog5aKe5YqgaXRlbSzmiJDlip/ov5Tlm54x5aSx6LSl6L+U5ZueMAogICAgICovCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">QFNwcmluZ0Jvb3RBcHBsaWNhdGlvbgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cgo=</text>
-      </register>
-      <register name="*" type="2">
-        <text>from flask</text>
+      <register name="2" type="2">
+        <text encoding="base64">ZnJvbSBsaWJhcnkuY29uZmlnIGltcG9ydCBDb25zCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="-" type="4">
-        <text>Autowired</text>
+      <register name="*" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
   </component>
