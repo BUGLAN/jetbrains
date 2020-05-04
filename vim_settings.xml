@@ -17,10 +17,10 @@
   <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed N</text>
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed E</text>
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
@@ -69,9 +69,6 @@
       <file name="/Dummy.txt" timestamp="1588355269027">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/github/libary/libary/controller.py" timestamp="1586788013338">
-        <mark key="'" line="20" column="21" />
-      </file>
       <file name="$USER_HOME$/repos/github/gon/gin.go" timestamp="1588355866237">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -80,18 +77,78 @@
       <file name="/a.dummy" timestamp="1588401148455">
         <mark key="[" line="0" column="1" />
       </file>
+      <file name="$USER_HOME$/repos/github/gon/.gitignore" timestamp="1588597364361">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="10" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/qing-long/src/main/java/com/qinglong/todo/TodoApplication.java" timestamp="1587393603151">
+        <mark key="[" line="15" column="10" />
+        <mark key="]" line="19" column="32" />
+        <mark key="^" line="19" column="32" />
+        <mark key="." line="19" column="31" />
+      </file>
       <file name="$USER_HOME$/repos/github/libary/libary/api/base.py" timestamp="1588401182295">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/qing-long/todo-api/src/main/java/com/qinglong/todo/TodoApplication.java" timestamp="1587393781411">
+        <mark key="[" line="12" column="5" />
+      </file>
       <file name="$USER_HOME$/repos/github/gon/gin_test.go" timestamp="1588356579751">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/github/demo2/refactor-demo/refactor1.go" timestamp="1588598905807">
+        <mark key="[" line="8" column="15" />
+        <mark key="]" line="8" column="21" />
+        <mark key="^" line="8" column="21" />
+        <mark key="." line="8" column="20" />
+      </file>
       <file name="/" timestamp="1588357028662">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/demo/src/main/java/com/example/demo/DemoApplication.java" timestamp="1587227682173">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/github/demo2/design-pattern/single_interface.py" timestamp="1588600296016">
+        <mark key="[" line="29" column="8" />
+        <mark key="]" line="38" column="12" />
+        <mark key="." line="38" column="11" />
+        <mark key="^" line="38" column="12" />
+      </file>
+      <file name="$USER_HOME$/repos/qing-long/todo-api/.gitignore" timestamp="1587393762998">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/github/demo2/layer/layer1.go" timestamp="1588602880291">
+        <mark key="'" line="2" column="15" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/github/demo2/design-pattern/single-interface.go" timestamp="1588600057310">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="31" column="6" />
+        <mark key="]" line="32" column="14" />
+        <mark key="." line="32" column="13" />
+        <mark key="^" line="32" column="14" />
+      </file>
+      <file name="$USER_HOME$/repos/qing-long/.gitignore" timestamp="1587393342346">
+        <mark key="[" line="1" column="7" />
+        <mark key="]" line="1" column="7" />
+        <mark key="^" line="1" column="7" />
+        <mark key="." line="1" column="6" />
+      </file>
+      <file name="/fragment.java" timestamp="1588514553526">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/github/libary/asgi.py" timestamp="1588356004157">
@@ -115,6 +172,15 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
+      <register name="*" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>)</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">CWZtdC5QcmludGxuKCJ0eXBlIG9mIGF1dGhvciIsIHJlZmxlY3QuVHlwZU9mKGF1dGhvcikpCg==</text>
+      </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
@@ -144,12 +210,6 @@
       </register>
       <register name=":" type="4">
         <text>w</text>
-      </register>
-      <register name="*" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="-" type="4">
-        <text>)</text>
       </register>
     </registers>
   </component>
