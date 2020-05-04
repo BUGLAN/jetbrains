@@ -36,6 +36,12 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/github/gon/.gitignore" timestamp="1588597364361">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="10" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/qing-long/src/main/java/com/qinglong/todo/TodoApplication.java" timestamp="1587393603151">
         <mark key="[" line="15" column="10" />
         <mark key="]" line="19" column="32" />
@@ -45,8 +51,6 @@
       <file name="$USER_HOME$/repos/qing-long/todo-api/src/main/java/com/qinglong/todo/TodoApplication.java" timestamp="1587393781411">
         <mark key="[" line="12" column="5" />
       </file>
-      <file name="$USER_HOME$/repos/qing-long/todo-api/src/main/java/com/qinglong/todo/controller/PanelItemController.java" timestamp="1588514815326" />
-      <file name="$USER_HOME$/repos/qing-long/todo-api/pom.xml" timestamp="1588514594281" />
       <file name="$USER_HOME$/repos/qing-long/.gitignore" timestamp="1587393342346">
         <mark key="[" line="1" column="7" />
         <mark key="]" line="1" column="7" />
@@ -66,19 +70,22 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog5aKe5YqgaXRlbSzmiJDlip/ov5Tlm54x5aSx6LSl6L+U5ZueMAogICAgICovCg==</text>
+        <text>from flask</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICog5aKe5YqgaXRlbSzmiJDlip/ov5Tlm54x5aSx6LSl6L+U5ZueMAogICAgICovCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QFNwcmluZ0Jvb3RBcHBsaWNhdGlvbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">QFNwcmluZ0Jvb3RBcHBsaWNhdGlvbgo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cgo=</text>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog5aKe5YqgaXRlbSzmiJDlip/ov5Tlm54x5aSx6LSl6L+U5ZueMAogICAgICovCg==</text>
+        <text>from flask</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
