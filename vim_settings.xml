@@ -25,9 +25,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repos/github/demo2/layer/layer.py" timestamp="1588602286408">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/repos/github/demo2/layer/layer.py" timestamp="1588602421046" />
       <file name="/Dummy.txt" timestamp="1588514553538">
         <mark key="[" line="0" column="0" />
       </file>
@@ -106,41 +104,45 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="2">
-        <text encoding="base64">ZnVuYyBtYWluKCkgewoJCn0K</text>
+      <register name="*" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>UserDao</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CWZtdC5QcmludGxuKCJ0eXBlIG9mIGF1dGhvciIsIHJlZmxlY3QuVHlwZU9mKGF1dGhvcikpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnVuYyBtYWluKCkgewoJCn0K</text>
+        <text>class User:
+    name: s
+    
+class UserDao():
+    pass</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXBhbmljKCJpbXBsZW1lbnQgbWUiKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXBhbmljKCJpbXBsZW1lbnQgbWUiKQo=</text>
+        <text encoding="base64">ZnVuYyBtYWluKCkgewoJCn0K</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">CXBhbmljKCJpbXBsZW1lbnQgbWUiKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXBhbmljKCJpbXBsZW1lbnQgbWUiKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dHlwZSAK</text>
+        <text encoding="base64">CXBhbmljKCJpbXBsZW1lbnQgbWUiKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXJldHVybgo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">dHlwZSAK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gbGF6eSBtb2RlCg==</text>
+        <text encoding="base64">CXJldHVybgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
